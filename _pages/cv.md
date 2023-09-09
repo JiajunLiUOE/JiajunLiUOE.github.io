@@ -19,13 +19,8 @@ Work experience
 ======
 * Aug 2020 - Apr 2022: Research Assistant
   * National University of Singapore
-  * Duties included: Tagging issues
+  * Research Interest: Infrastructure quality inspection, Laser scanning
   * Supervisor: Professor Qian Wang
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
