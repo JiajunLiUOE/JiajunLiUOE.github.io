@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Civil Engineering, Hohai University, 2018
-* M.S. in Hydraulic Engineering, Tsinghua University, 2020
+* B.S. in Engineering, University, 2018
+* M.S. in Engineering, University, 2020
 * Ph.D in Engineering, University of Edinburgh, 2018 (expected)
 
 Work experience
