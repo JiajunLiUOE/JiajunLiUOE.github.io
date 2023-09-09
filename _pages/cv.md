@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Hohai Engineering, University, 2018
-* M.S. in Tsinghua Engineering, University, 2020
-
   
 Skills
 ======
