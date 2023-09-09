@@ -13,14 +13,14 @@ Education
 ======
 * B.S. in Hohai Engineering, University, 2018
 * M.S. in Tsinghua Engineering, University, 2020
-* Ph.D in Engineering, University of Edinburgh, 2018 (expected)
+* Ph.D in Engineering, University of Edinburgh, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Aug 2020 - Apr 2022: Research Assistant
+  * National University of Singapore
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Qian Wang
 
 * Fall 2015: Research Assistant
   * Github University
