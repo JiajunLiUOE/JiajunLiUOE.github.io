@@ -13,14 +13,7 @@ Education
 ======
 * B.S. in Hohai Engineering, University, 2018
 * M.S. in Tsinghua Engineering, University, 2020
-* Ph.D in Engineering, University of Edinburgh, 2025 (expected)
 
-Work experience
-======
-* Aug 2020 - Apr 2022: Research Assistant
-  * National University of Singapore
-  * Research Interest: Infrastructure quality inspection, Laser scanning
-  * Supervisor: Professor Qian Wang
   
 Skills
 ======
